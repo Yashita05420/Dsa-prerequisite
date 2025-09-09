@@ -1,1 +1,1 @@
-# Dsa-prerequiste
+# Dsa-prerequisite
